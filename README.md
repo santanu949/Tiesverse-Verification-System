@@ -88,7 +88,7 @@ npm run dev
 
 ### For Administrators
 1. **Initialize Session**: Log in via the /admin portal using secure credentials.
-2. **Issue Credential**: Select a category (Internship/Webinar/Cert) and enter recipient details.
+2. **Issue Credential**: Select a category (Internship/Webinar) and enter recipient details.
 3. **Batch Upload**: Use the "Batch Processor" to upload a CSV of multiple recipients.
 4. **Generate**: Trigger PDF certificate generation for any verified user.
 
