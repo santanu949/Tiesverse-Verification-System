@@ -1,4 +1,4 @@
-# 🛡️ Tiesverse: Global Role Verification Network
+#  Tiesverse: Global Role Verification Network
 
 [![React](https://img.shields.io/badge/React-18.3-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Enabled-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
