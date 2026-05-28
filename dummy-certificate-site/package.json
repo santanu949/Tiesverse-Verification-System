@@ -1,0 +1,20 @@
+{
+  "name": "dummy-certificate-site",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5174",
+    "build": "vite build",
+    "preview": "vite preview --port 5174"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "vite": "^8.0.1"
+  }
+}
+
